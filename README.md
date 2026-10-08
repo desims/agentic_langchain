@@ -2,6 +2,8 @@
 
 ## Introduction
 
+This repository is based primarily on source materials from [LangChain Academy](https://academy.langchain.com/). The author has made additional changes and additions to the source code to support and accompany an article on LinkedIn: [Desi Mayasari Sitompul](https://www.linkedin.com/in/desi-mayasari-sitompul/).
+
 Welcome to LangChain Academy's **Introduction to LangChain** course!
 
 This repository is the companion to the course located [HERE](https://academy.langchain.com/courses/foundation-introduction-to-langchain-python).
